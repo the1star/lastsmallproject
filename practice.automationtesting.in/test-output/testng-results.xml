@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125190" started-at="2020-01-23T09:18:37Z" finished-at="2020-01-23T09:20:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125190" started-at="2020-01-23T09:18:37Z" finished-at="2020-01-23T09:20:42Z">
+      <class name="arrivalimagesreviewpomtest.VerifyPracticeautomation">
+        <test-method status="PASS" signature="checklogin()[pri:0, instance:arrivalimagesreviewpomtest.VerifyPracticeautomation@58651fd0]" name="checklogin" duration-ms="125165" started-at="2020-01-23T09:18:37Z" finished-at="2020-01-23T09:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogin -->
+      </class> <!-- arrivalimagesreviewpomtest.VerifyPracticeautomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
